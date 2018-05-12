@@ -1,0 +1,28 @@
+_repo: Cocina-c-mica_40595
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40595-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pérez Zúñiga, Juan
+    aliases:
+    - Zúñiga, Juan Pérez
+    - Perez Zuniga, Juan
+    birthdate: 1860
+    gutenberg_agent_id: '40717'
+    url: http://www.gutenberg.org/2009/agents/40717
+description: ''
+gutenberg_issued: '2012-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40595'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Cooking -- Humor'
+title: 'Cocina cómica: Recetas de guisos y postres, poesías culinarias, y otros excesos'
+url: http://www.gutenberg.org/ebooks/40595
